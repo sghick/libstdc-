@@ -11,3 +11,7 @@ Xcode10中删除的`libstdc++`库
 
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/
 ```
+
+使用方法:
+打开终端进入 replace_libs.bash 文件所在目录
+执行$bash replace_libs.bash
