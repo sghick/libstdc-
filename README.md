@@ -13,6 +13,6 @@ Xcode10中删除的`libstdc++`库
 ```
 
 使用方法:
-打开终端进入 replace_libs.bash 文件所在目录
-执行`$bash replace_libs.bash`
-如果没有权限,请执行`$sudo bash replace_libs.bash` 再输入密码即可
+打开终端进入 replace_libs.bash 文件所在目录  
+执行`$bash replace_libs.bash`  
+如果没有权限,请执行`$sudo bash replace_libs.bash` 再输入密码即可  
